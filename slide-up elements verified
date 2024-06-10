@@ -1,0 +1,8 @@
+<div class="oferta slide-up">
+    <img src="oferta2.jpg" alt="Oferta 2">
+    <div>
+        <h3>Produto 2</h3>
+        <p>Descrição detalhada da oferta 2.</p>
+        <a href="#">Ver mais</a>
+    </div>
+</div>
