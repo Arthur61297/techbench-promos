@@ -1,0 +1,9 @@
+<header>
+    <h1>TechBench Promos</h1>
+    <p>As melhores ofertas e benchmarks de tecnologia em um só lugar</p>
+    <nav>
+        <a href="index.html">Início</a>
+        <a href="benchmarks.html">Benchmarks</a>
+        <button id="menu-toggle" aria-label="Abrir menu">&#9776;</button>
+    </nav>
+</header>
