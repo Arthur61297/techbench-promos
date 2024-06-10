@@ -1,0 +1,49 @@
+header {
+    background-color: #282c34;
+    color: #61dafb;
+    padding: 20px;
+    text-align: center;
+}
+
+nav a {
+    color: #61dafb;
+    margin: 0 15px;
+    text-decoration: none;
+}
+
+nav a:hover {
+    text-decoration: underline;
+}
+
+main {
+    padding: 20px;
+}
+
+#ofertas .oferta {
+    display: flex;
+    border: 1px solid #ddd;
+    padding: 15px;
+    margin-bottom: 20px;
+    background-color: #fff;
+}
+
+#ofertas .oferta img {
+    max-width: 150px;
+    margin-right: 20px;
+}
+
+#ofertas .oferta div {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+footer {
+    background-color: #282c34;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+}
