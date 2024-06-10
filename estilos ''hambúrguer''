@@ -1,0 +1,30 @@
+nav {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+}
+
+#menu-toggle {
+    display: none;
+}
+
+@media (max-width: 768px) {
+    nav a {
+        display: none;
+    }
+
+    #menu-toggle {
+        display: block;
+        background: none;
+        border: none;
+        color: white;
+        font-size: 2rem;
+        cursor: pointer;
+    }
+
+    nav.active a {
+        display: block;
+        margin: 0.5rem 0;
+    }
+}
