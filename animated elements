@@ -1,0 +1,8 @@
+<div class="oferta fade-in">
+    <img src="oferta1.jpg" alt="Oferta 1">
+    <div>
+        <h3>Produto 1</h3>
+        <p>Descrição detalhada da oferta 1.</p>
+        <a href="#">Ver mais</a>
+    </div>
+</div>
